@@ -1,0 +1,107 @@
+html body {
+    margin: 0px;
+}
+
+body {
+    background:linear-gradient(rgb(88, 87, 87),rgb(196, 196, 196));
+    text-shadow: #fcfcfc 0 0 9px;
+ 
+
+    
+}
+
+header {
+    position: fixed;
+    background: linear-gradient(rgb(88, 87, 87),rgb(196, 196, 196));
+    top:0px;
+    
+}
+
+header li {
+    margin: 25px;
+    display: inline;
+        
+}
+
+
+h1 {
+    padding:100px;
+}
+
+
+        
+.content1 {
+    padding:100px;
+    margin: 30px;
+
+    
+    
+   
+}   
+
+.content1 li {
+    overflow:hidden;
+    
+
+}
+
+.content2 {
+    padding:100px;
+    margin: 30px;
+    
+    
+   
+}   
+
+.content3 {
+    padding:100px;
+    margin: 30px;
+ 
+
+    
+   
+}   
+
+.content4 {
+    padding:100px;
+    margin: 30px;
+
+    
+   
+}   
+
+.content5 {
+    padding:100px;
+    margin: 30px; 
+}   
+
+.content6 {
+    padding:100px;
+    margin: 30px;   
+}   
+
+.content7 {
+    padding:100px;
+    margin: 30px;   
+}   
+    
+.laik2 {
+    float:left;
+}
+
+.laik1 {
+    float:right;
+}
+
+
+img {
+    width: 400px;
+    margin: 30px;
+}
+ 
+
+
+
+
+
+
